@@ -1,10 +1,10 @@
 package model;
 
 public class ttRacket extends Equipment {
-    private boolean needsNewPad;
+    private boolean needsNewPad;   // Setter en true/false for om racketen trenger ny gummi
 
     public ttRacket(int id, String locker, boolean needsReplacement, boolean needsNewPad) {
-        super(id, locker, needsReplacement);
+        super(id, locker, needsReplacement);  // Arver felles egenskaper fra Equipment
         this.needsNewPad = needsNewPad;
     }
 
