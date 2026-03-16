@@ -1,2 +1,18 @@
 I denne oppgaven brukte jeg bare informasjonen jeg fikk, bruker alt det samme som blir nevnt og har ikke forandret noe.
-Jeg har brukt mye W3C for hjelp av koding i tillegg til en check liste ai lagde for meg.
+Jeg har brukt mye W3C for hjelp av koding i tillegg til en check liste AI lagde for meg.
+
+Jeg har egentlig jobbet litt baklengs, siden jeg startet med å printe det som står i txt-filen. Så jeg startet på testing av programmet.
+Dette har funket bra for meg siden dette har vært et prosjekt jeg ikke helt skjønte i starten, men måten jeg jobbet på fikk meg til å se hva jeg måtte gjøre på en oversiktlig måte.
+For å hjelpe meg selv med å lære koden har jeg kommentert fortløpende gjennom prosjektet for å huske hva koden betyr og gjør.
+Jeg har fått hjelp av AI med å gi meg ''hint'' til koden jeg skal skrive, noe som hjalp veldig.
+Det jeg slet mest med var å få lest txt filen og bruke det i koden min.
+
+Oppgave 1: Leser fra equipment.txt og lager objekter via det i EquipmentReader.java.
+Oppgave 2: Har 3 metoder for å skrive ut informasjon. Alle filene i model-mappen brukes her.
+Oppgave 3: Main.java tester hele programmet, og alle resultatene skrives ut i terminalen.
+Arv: Jeg bruker arv i Equipment, ball og ttRacket – hvor ball og ttRacket arver data fra Equipment.
+Scanner: Dette blir brukt i EquipmentReader til å lese innholdet fra filen linje for linje.
+
+Jeg synes oppgaven var lærerik fordi jeg fikk jobbe med både filer, objekter og arv på samme tid.
+Selv om jeg trengte litt hjelp underveis, føler jeg jeg har fått en mye bedre forståelse av hvordan klassene samarbeider i et prosjekt.
+Neste gang jeg jobber med lignende oppgaver vil jeg starte mer strukturert, men jeg er fornøyd med resultatet jeg fikk til.
